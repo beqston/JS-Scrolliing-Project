@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    height: 200px;
+    background-color: #333;
+    color: black;
+    padding: 20px 0;
+    text-align: center;
+    background-image: url("/public/assets/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; /* optional but usually useful */
+}
+
+
+main{
+    background-color:#e8eef1;
+}
+#headProducts{
+    text-align: center;
+    padding: 20px 0;
+    color: #183e4b;
+}
+#products{
+    width: 100%;
+    padding: 20px;
+    display: grid;
+    place-items: center;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 20px;
+}
+
+#item{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid #434279;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#loadMore{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    padding-bottom: 20px;
+}
+
+#itemHead{
+    text-align: center;
+    color: #434279;
+    padding-bottom: 12px;
+}
+
+#loadMoreBtn{
+    background-color: #434279;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+#price{
+    color: #4ebade;
+    font-size: 20px;
+    padding: 10px 0;
+}
+
+#scrollToTop{
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    background-color: transparent;
+    bottom: 20px;
+    right: 10px;
+    background-color: #e8eef1;
+    opacity: 0.8;
+    padding: 10px 20px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+
+#scrollToTop img{
+    width: 100%;
+    height: 100%;
+}

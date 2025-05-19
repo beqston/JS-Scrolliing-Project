@@ -1,0 +1,292 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Iphone 13 Pro",
+      "image":"public/assets/products/iphone-13-pro-cacao.png",
+      "price": "1020$"
+    },
+        {
+      "id": "2",
+      "name": "Realme 8",
+      "image":"public/assets/products/realme-8.JPG",
+      "price": "872$"
+    },
+    {
+      "id": "3",
+      "name": "Iphone 13 Pro Cacao",
+      "image":"public/assets/products/iphone-13-pro-cacao.png",
+      "price": "1130$"
+    },
+    {
+      "id": "4",
+      "name": "Iphone 14",
+      "image":"public/assets/products/iphone14.JPG",
+      "price": "1130$"
+    },
+    {
+      "id": "5",
+      "name": "Iphone 14 Blue",
+      "image":"public/assets/products/iphone-14-bleu.png",
+      "price": "1130$"
+    },
+    {
+      "id": "6",
+      "name": "Google Pixel 6",
+      "image":"public/assets/products/pixel-6-a-mate.png",
+      "price": "930$"
+    },
+    {
+      "id": "7",
+      "name": "Google Pixel Blue 7",
+      "image":"public/assets/products/pixel-7-pro-bleu.png",
+      "price": "720$"
+    },
+    {
+      "id": "8",
+      "name": "Google Pixel XL Blue 7",
+      "image":"public/assets/products/pixel-7-pro-2.png",
+      "price": "880$"
+    },
+    {
+      "id": "9",
+      "name": "Google Pixel 9 XL",
+      "image":"public/assets/products/pixel-9.WEBP",
+      "price": "1280$"
+    },
+    {
+      "id": "10",
+      "name": "Samsung S23 Lite Green",
+      "image":"public/assets/products/samsung-s23-lite-green.png",
+      "price": "890$"
+    },
+        {
+      "id": "11",
+      "name": "Iphone 14 Transparent",
+      "image":"public/assets/products/iphone-14-transparent.png",
+      "price": "1280$"
+    },
+    {
+      "id": "12",
+      "name": "Samsung S23 Plus",
+      "image":"public/assets/products/samsung-s23-plus.png",
+      "price": "810$"
+    },
+    {
+      "id": "13",
+      "name": "Samsung S23",
+      "image":"public/assets/products/samsung-s24.JPG",
+      "price": "840$"
+    },
+    {
+      "id": "14",
+      "name": "Xiaomi 14 Ultra",
+      "image":"public/assets/products/xiaomi-14-ultra.png",
+      "price": "790$"
+    },
+    {
+      "id": "15",
+      "name": "Iphone 15",
+      "image":"public/assets/products/iphone15.webp",
+      "price": "1320$"
+    },
+    {
+      "id": "16",
+      "name": "Iphone 16",
+      "image":"public/assets/products/iphone16.jpg",
+      "price": "1890$"
+    },
+    {
+      "id": "17",
+      "name": "Samsung S25 Ultra",
+      "image":"public/assets/products/samsungs25ultra.jpg",
+      "price": "1920$"
+    },
+    {
+      "id": "18",
+      "name": "Samsung S25",
+      "image":"public/assets/products/samsungs-s25.webp",
+      "price": "1780$"
+    },
+    {
+      "id": "19",
+      "name": "Pixel 6a Red",
+      "image":"public/assets/products/pixel-6a-red.png",
+      "price": "1080$"
+    },
+    {
+      "id": "20",
+      "name": "Pixel 6a Grey",
+      "image":"public/assets/products/pixel-6-a-gray.png",
+      "price": "1340$"
+    },
+    {
+      "id": "21",
+      "name": "Pixel 7a",
+      "image":"public/assets/products/pixel-7-pro-1.png",
+      "price": "980$"
+    },
+    {
+      "id": "22",
+      "name": "Pixel 7a Pro",
+      "image":"public/assets/products/pixel-7-pro-2.png",
+      "price": "1080$"
+    },
+        {
+      "id": "23",
+      "name": "Samsung S23 Lite Green",
+      "image":"public/assets/products/samsung-s23-lite-green.png",
+      "price": "1020$"
+    },
+        {
+      "id": "24",
+      "name": "Realme 13 Pro",
+      "image":"public/assets/products/realme13.webp",
+      "price": "1310$"
+    },
+    {
+      "id": "25",
+      "name": "Iphone 13 Pro",
+      "image":"public/assets/products/iphone-13pro1.png",
+      "price": "1020$"
+    },
+        {
+      "id": "26",
+      "name": "Realme 8",
+      "image":"public/assets/products/realme-8.JPG",
+      "price": "872$"
+    },
+    {
+      "id": "27",
+      "name": "Iphone 13 Pro Cacao",
+      "image":"public/assets/products/iphone-13-pro-cacao.png",
+      "price": "1130$"
+    },
+    {
+      "id": "28",
+      "name": "Iphone 14",
+      "image":"public/assets/products/iphone14.JPG",
+      "price": "1130$"
+    },
+    {
+      "id": "29",
+      "name": "Iphone 14 Blue",
+      "image":"public/assets/products/iphone-14-bleu.png",
+      "price": "1130$"
+    },
+    {
+      "id": "30",
+      "name": "Google Pixel 6",
+      "image":"public/assets/products/pixel-6-a-mate.png",
+      "price": "930$"
+    },
+    {
+      "id": "31",
+      "name": "Google Pixel Blue 7",
+      "image":"public/assets/products/pixel-7-pro-bleu.png",
+      "price": "720$"
+    },
+    {
+      "id": "32",
+      "name": "Google Pixel XL Blue 7",
+      "image":"public/assets/products/pixel-7-pro-2.png",
+      "price": "880$"
+    },
+    {
+      "id": "33",
+      "name": "Google Pixel 9 XL",
+      "image":"public/assets/products/pixel-9.WEBP",
+      "price": "1280$"
+    },
+    {
+      "id": "34",
+      "name": "Samsung S23 Lite Green",
+      "image":"public/assets/products/samsung-s23-lite-green.png",
+      "price": "890$"
+    },
+        {
+      "id": "35",
+      "name": "Iphone 14 Transparent",
+      "image":"public/assets/products/iphone-14-transparent.png",
+      "price": "1280$"
+    },
+    {
+      "id": "36",
+      "name": "Samsung S23 Plus",
+      "image":"public/assets/products/samsung-s23-plus.png",
+      "price": "810$"
+    },
+    {
+      "id": "37",
+      "name": "Samsung S23",
+      "image":"public/assets/products/samsung-s24.JPG",
+      "price": "840$"
+    },
+    {
+      "id": "38",
+      "name": "Xiaomi 14 Ultra",
+      "image":"public/assets/products/xiaomi-14-ultra.png",
+      "price": "790$"
+    },
+    {
+      "id": "39",
+      "name": "Iphone 15",
+      "image":"public/assets/products/iphone15.webp",
+      "price": "1320$"
+    },
+    {
+      "id": "40",
+      "name": "Iphone 16",
+      "image":"public/assets/products/iphone16.jpg",
+      "price": "1890$"
+    },
+    {
+      "id": "41",
+      "name": "Samsung S25 Ultra",
+      "image":"public/assets/products/samsungs25ultra.jpg",
+      "price": "1920$"
+    },
+    {
+      "id": "42",
+      "name": "Samsung S25",
+      "image":"public/assets/products/samsungs-s25.webp",
+      "price": "1780$"
+    },
+    {
+      "id": "43",
+      "name": "Pixel 6a Red",
+      "image":"public/assets/products/pixel-6a-red.png",
+      "price": "1080$"
+    },
+    {
+      "id": "44",
+      "name": "Pixel 6a Grey",
+      "image":"public/assets/products/pixel-6-a-gray.png",
+      "price": "1340$"
+    },
+    {
+      "id": "45",
+      "name": "Pixel 7a",
+      "image":"public/assets/products/pixel-7-pro-1.png",
+      "price": "980$"
+    },
+    {
+      "id": "46",
+      "name": "Pixel 7a Pro",
+      "image":"public/assets/products/pixel-7-pro-2.png",
+      "price": "1080$"
+    },
+        {
+      "id": "47",
+      "name": "Samsung S23 Lite Green",
+      "image":"public/assets/products/samsung-s23-lite-green.png",
+      "price": "1020$"
+    },
+        {
+      "id": "48",
+      "name": "Realme 13 Pro",
+      "image":"public/assets/products/realme13.webp",
+      "price": "1310$"
+    }
+  ]
+}
