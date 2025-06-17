@@ -44,7 +44,7 @@ loadProducts(startNumber, endNumber);
 document.addEventListener('scroll', () => {
     const { scrollTop, scrollHeight, clientHeight } = document.documentElement;
     // If the user is near the bottom, load more products
-    if (scrollTop + clientHeight + 10 >= scrollHeight) {
+    if (scrollTop + clientHeight + 3 >= scrollHeight) {
         loadProducts(startNumber, endNumber);
     } 
 });
